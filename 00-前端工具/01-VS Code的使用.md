@@ -14,7 +14,7 @@ VS Code 软件实在是太酷、太好用了，越来越多的新生代互联网
 
 > **任何能够用 JavaScript 实现的应用系统，最终都必将用 JavaScript 实现**。
 
-Jeff Atwood 这个人是谁不重要（他是 Stack Overflow 网站的联合创始人），重要的是这条定律。
+Jeff Atwood 这个人是谁不重要（他是 Stack Overflow 网站的联合创始人），重要便是这条定律。
 
 前端目前是处在春秋战国时代，各路英雄豪杰成为后浪，各种框架工具层出不穷，VS Code 软件无疑是大前端时代最骄傲的工具。
 
